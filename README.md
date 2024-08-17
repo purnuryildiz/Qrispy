@@ -2,7 +2,7 @@
 
 <p>This project is a modern restaurant website developed with Bootstrap 5 and Remixicon. It features a responsive design with a dynamic hero slider, an interactive menu, and sections for About Us and Reservations. The site is designed for easy navigation and provides a seamless user experience across devices. </p>
 
-<h1>Features </h1>
+<h2>Features </h2>
 
 <list>
 
@@ -20,6 +20,6 @@
 
 </list>
 
-<h1>Preview:</h1>
+<h2>Preview:</h2>
 
 ![](image.gif)
